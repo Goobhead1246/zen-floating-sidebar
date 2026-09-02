@@ -1,0 +1,9 @@
+{
+  "id": "a8d778be-9bab-4038-8406-82f39deca5ef",
+  "name": "Zen Floating Sidebar",
+  "description": "Floating sidebar with page-color bleed-through behind it.",
+  "author": "Your Name",
+  "version": "0.1.0",
+  "style": "chrome.css",
+  "scripts": ["main.uc.mjs"]
+}

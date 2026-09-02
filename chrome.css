@@ -1,0 +1,7 @@
+/* Zen Floating Sidebar — placeholder
+   This temporary rule just proves the mod is loading. Once install is
+   confirmed working, delete this and start on the real floating layout. */
+
+#navigator-toolbox {
+  outline: 4px solid red !important;
+}
